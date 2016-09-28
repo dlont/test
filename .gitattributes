@@ -1,0 +1,6 @@
+libFourTopSingleLep.so filter=lfs diff=lfs merge=lfs -text
+libTopTreeAna76.so filter=lfs diff=lfs merge=lfs -text
+libTopTreeAna80.so filter=lfs diff=lfs merge=lfs -text
+libTopTreeAnaContent76.so filter=lfs diff=lfs merge=lfs -text
+libTopTreeAnaContent80.so filter=lfs diff=lfs merge=lfs -text
+MVAOutput_TTbarJES.root filter=lfs diff=lfs merge=lfs -text
